@@ -3,15 +3,15 @@
 <path d="M468.565 107.317L468.565 2878.4" stroke="#83A5FF" stroke-width="5.03834"/>
 <path d="M395.51 2800.81H542.125V2843.13H395.51V2800.81Z" fill="white"/>
 <g filter="url(#filter0_d)">
-<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="32.2454" letter-spacing="0em"><tspan x="410.609" y="2832.99">The End</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="32.2454" letter-spacing="0em"><tspan x="410.609" y="2832.99">Соңы</tspan></text>
 </g>
 <path d="M395.51 2282.37H542.125V2356.43H395.51V2282.37Z" fill="white"/>
 <g filter="url(#filter1_d)">
-<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="32.2454" letter-spacing="0em"><tspan x="417.458" y="2311.42">Almost </tspan><tspan x="432.258" y="2349.42">there</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="32.2454" letter-spacing="0em"><tspan x="417.458" y="2311.42">Келіп </tspan><tspan x="432.258" y="2349.42">қалдық</tspan></text>
 </g>
 <path d="M395.51 1245.48H542.125V1319.54H395.51V1245.48Z" fill="white"/>
 <g filter="url(#filter2_d)">
-<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="32.2454" letter-spacing="0em"><tspan x="416.86" y="1274.53">Getting&#10;</tspan><tspan x="418.072" y="1312.53">Deeper</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="32.2454" letter-spacing="0em"><tspan x="416.86" y="1274.53">Тереңірек&#10;</tspan><tspan x="418.072" y="1312.53">сүңгиміз</tspan></text>
 </g>
 <path d="M395.51 537.087H542.125V579.409H395.51V537.087Z" fill="white"/>
 <g filter="url(#filter3_d)">
@@ -19,22 +19,22 @@
 </g>
 <path d="M395.51 169.288H542.125V211.61H395.51V169.288Z" fill="white"/>
 <g filter="url(#filter4_d)">
-<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="32.2454" letter-spacing="0em"><tspan x="421.016" y="201.47">Basics</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="32.2454" letter-spacing="0em"><tspan x="421.016" y="201.47">Негіздер</tspan></text>
 </g>
 <path d="M641.884 274.589H470.076" stroke="#83A5FF" stroke-width="5.03834"/>
 <circle cx="469.069" cy="276.605" r="20.1534" fill="#83A5FF"/>
 <rect x="513.91" y="212.618" width="255" height="195.496" rx="15.6188" fill="#EFEFEF"/>
-<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" font-weight="bold" letter-spacing="0em"><tspan x="595.38" y="235.645">Dev Environment</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" font-weight="bold" letter-spacing="0em"><tspan x="595.38" y="235.645">Бағдарламалау жабдықтары</tspan></text>
 <rect x="528.018" y="244.863" width="227.229" height="36.7799" fill="#95C6FF"/>
 <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="542.487" y="267.386">Android Studio </tspan><tspan x="636.236" y="267.386"> Visual Studio Code</tspan></text>
-<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" font-weight="bold" letter-spacing="0em"><tspan x="624.982" y="267.386">or</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" font-weight="bold" letter-spacing="0em"><tspan x="624.982" y="267.386">немесе</tspan></text>
 <rect x="528.018" y="298.27" width="100.263" height="36.7799" fill="#FFEE95"/>
 <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="550.452" y="320.793">Flutter CLI</tspan></text>
 <rect x="528.018" y="351.676" width="100.263" height="36.7799" fill="#FFEE95"/>
 <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="570.58" y="374.199">Git</tspan></text>
 <rect x="654.983" y="298.27" width="100.263" height="36.7799" fill="#C495FF"/>
 <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="683.204" y="320.793">DartPad</tspan></text>
-<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="791.522" y="202.086">Choose either </tspan><tspan x="826.676" y="216.086"> or </tspan><tspan x="866.932" y="216.086"> and learn </tspan><tspan x="843.527" y="230.086"> and IDE </tspan><tspan x="831.435" y="244.086">. A few hours </tspan><tspan x="791.522" y="258.086">spent on shortcuts will </tspan><tspan x="791.522" y="272.086">save you weeks later.&#x2028;</tspan><tspan x="791.522" y="286.086">It is useful to know </tspan><tspan x="791.522" y="300.086">Flutter CLI as some </tspan><tspan x="791.522" y="314.086">tasks are faster to get </tspan><tspan x="791.522" y="328.086">done from the </tspan><tspan x="868.443" y="342.086">.&#x2028;</tspan><tspan x="791.522" y="356.086">&#x2028;</tspan><tspan x="791.522" y="370.086">Create a habit to use a </tspan><tspan x="915.465" y="384.086"> </tspan><tspan x="791.522" y="398.086">the sooner the better. </tspan><tspan x="791.522" y="412.086">For today the most </tspan><tspan x="791.522" y="426.086">popular is Git. While </tspan><tspan x="791.522" y="440.086">you might look cool </tspan><tspan x="791.522" y="454.086">using command line, </tspan><tspan x="791.522" y="468.086">prefer </tspan><tspan x="850.482" y="468.086">, </tspan><tspan x="915.512" y="468.086">, </tspan><tspan x="791.522" y="482.086">or Git client integrated </tspan><tspan x="791.522" y="496.086">into your </tspan><tspan x="859.362" y="496.086">.</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="791.522" y="202.086">Таңдауыңыз </tspan><tspan x="826.676" y="216.086"> немесе </tspan><tspan x="866.932" y="216.086"> болады, кейін оқитыныңыз </tspan><tspan x="843.527" y="230.086"> және IDE </tspan><tspan x="831.435" y="244.086">. Осыларды оқуға </tspan><tspan x="791.522" y="258.086">кеткен бірнеше сағаттарыңыз </tspan><tspan x="791.522" y="272.086">сізге бірнеше апта үнемдейді.&#x2028;</tspan><tspan x="791.522" y="286.086">Оған қоса </tspan><tspan x="791.522" y="300.086">Flutter CLI негіздерін </tspan><tspan x="791.522" y="314.086">біліп алсаңыз </tspan><tspan x="791.522" y="328.086">-ды қодануға ықпалын тигізеді </tspan><tspan x="868.443" y="342.086">.&#x2028;</tspan><tspan x="791.522" y="356.086">&#x2028;</tspan><tspan x="791.522" y="370.086">Create a habit to use a </tspan><tspan x="915.465" y="384.086"> </tspan><tspan x="791.522" y="398.086">the sooner the better. </tspan><tspan x="791.522" y="412.086">For today the most </tspan><tspan x="791.522" y="426.086">popular is Git. While </tspan><tspan x="791.522" y="440.086">you might look cool </tspan><tspan x="791.522" y="454.086">using command line, </tspan><tspan x="791.522" y="468.086">prefer </tspan><tspan x="850.482" y="468.086">, </tspan><tspan x="915.512" y="468.086">, </tspan><tspan x="791.522" y="482.086">or Git client integrated </tspan><tspan x="791.522" y="496.086">into your </tspan><tspan x="859.362" y="496.086">.</tspan></text>
 <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" font-weight="bold" letter-spacing="0em"><tspan x="868.975" y="202.086">Android </tspan><tspan x="791.522" y="216.086">Studio</tspan><tspan x="843.669" y="216.086">VSC</tspan><tspan x="791.522" y="230.086">shortcuts</tspan><tspan x="791.522" y="244.086">plugins</tspan><tspan x="791.522" y="342.086">command line</tspan><tspan x="791.522" y="384.086">version control system</tspan><tspan x="826.275" y="468.086">Fork</tspan><tspan x="855.855" y="468.086">Sourcetree</tspan><tspan x="841.165" y="496.086">IDE</tspan></text>
 <path d="M467.558 398.029H295.75" stroke="#83A5FF" stroke-width="5.03834"/>
 <circle cx="469.069" cy="398.029" r="20.1534" fill="#83A5FF"/>
